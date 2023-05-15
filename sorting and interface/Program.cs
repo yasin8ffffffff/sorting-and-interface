@@ -1,5 +1,0 @@
-﻿interface Isorting
-{
-    void SortanArray();
-}
-
